@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/style2.css">
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap1.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/main.css" rel="stylesheet">
+    
+    <style>
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin: 20px auto;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+        <nav>
+            <div class="wrapper">
+                <ul>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="portfolio.php">Portfolio</a></li>
+                    <li><a href="Photo_Gallery.php">Photo Gallery</a></li>
+                    <li><a href="Page_2.php">Education</a></li>
+                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="comment.php">Comment</a></li>
+                    <li><a href="calculator.php">Calculator</a></li>
+                </ul>
+            </div>
+        </nav>
+    <div class="container">
+		<!--header>
+            <h1 style="text-align: center; font-family:verdana;">Education</h1>
+        </header-->
+        <section>
+            <h1 style="text-align: center; font-family:verdana;">Education</h1>
+            <h2 style="text-align: center; font-family:verdana;">University Teknologi MARA</h2>
+			<center>
+			<img src="image/logo uitm 1.jpg" alt="logo uitm" width="230" height="100">
+			<p style="font-family:Arial, sans-serif;">Degree: BACHELOR OF COMPUTER SCIENCE (HONS.) MULTIMEDIA COMPUTING</p>
+            <p style="font-family:Arial, sans-serif;">Year of Graduation: TBC</p>
+			</center>
+        </section>
+		
+		<section>
+			<h2 style="text-align: center; font-family:verdana;">Kolej Matrikulasi Negeri Sembilan</h2>
+			<center>
+			<img src="image/kmnslogo.jpeg" alt="logo kmns" width="200" height="200">
+			<P style="font-family:Arial, sans-serif;">Course : Physical Science </P>
+			<p style="font-family:Arial, sans-serif;">Year: 2020-2022</p>
+			</center>
+		</section>
+		
+        <section>
+			<center>
+            <div>
+            <h2 style="font-family:verdana;">High School</h2>
+			<img src="image/smkpm.png" alt="logo sekolah" width="300" height="300">
+			<h4 style="font-family:verdana;">SMK PANDAN MEWAH (2015-2017)</h4>
+            <li style="font-family:Arial, sans-serif;">Highest education: PT3</li>
+            </div>
+			<img src="image/skmtd.png" alt="logo sekolah" width="200" height="200">
+			<h4 style="font-family:verdana;">SMK TAMAN DESA(2018-2019)</h4>
+            <li style="font-family:Arial, sans-serif;">Year of Graduation: 2019</li>
+            <li style="font-family:Arial, sans-serif;">Highest education : SPM</li>
+			
+			</center>
+        </section>
+		</div>
+	<!-- +++++ Footer Section +++++ -->
+	
+	<div id="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4">
+					<h4>My Bunker</h4>
+					<p>
+						No 78, Jalan Desa 4/10,<br/>
+						Bandar Country Homes,  <br/>
+						48000, Rawang,         <br/>
+                        Selangor Darul Ehsan.
+					</p>
+				</div><!-- /col-lg-4 -->
+				
+				<div class="col-lg-4">
+                    <h4>My Links</h4>
+                    <p>
+                        <a href="https://www.youtube.com/watch?v=vfc42Pb5RA8" target="_blank">YouTube</a><br/>
+                        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Twitter</a><br/>
+                        <a href="https://www.youtube.com/watch?v=GPXkjtpGCFI" target="_blank">TikTok</a>
+                    </p>
+                </div>
+                                
+				<div class="col-lg-4">
+					<h4>About Me</h4>
+					<p>I love studying Science Computer and Programming Interactive System.</p>
+				</div><!-- /col-lg-4 -->
+			
+			</div>
+		
+		</div>
+	</div>
+</body>
+</html>
